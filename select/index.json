@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "STARKIDS - HORIZON (Official Music Video)",
+  "base_artist": "STARKIDS",
+  "createdAt": "2026-02-08T09:36:38.495527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starkids",
+      "artist": "Paulie Garand",
+      "has_synced": true,
+      "path": "select/01_Starkids_Paulie_Garand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starkids",
+      "artist": "Paulie Garand",
+      "has_synced": false,
+      "path": "select/02_Starkids_Paulie_Garand.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HORIZON",
+      "artist": "STARKIDS",
+      "has_synced": false,
+      "path": "select/pl_01_HORIZON_STARKIDS.txt"
+    }
+  ]
+}
